@@ -4,3 +4,5 @@ description: hello
 
 # 编者序
 
+主要记录自己学习虚拟化技术的过程
+
